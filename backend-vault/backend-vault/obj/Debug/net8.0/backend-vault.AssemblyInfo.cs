@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backend-vault")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3957c25201691916859161177e18b1047979c71e")]
 [assembly: System.Reflection.AssemblyProductAttribute("backend-vault")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backend-vault")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Migrations\\20260408010242_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend-vault\\Migrations\\20260408010242_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\backend-vault.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\backend-vault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\migrations\\20260408010242_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\migrations\\20260408010242_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\models\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\backend-vault.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|c:\\users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7956DA96-5999-4F08-B837-06403623C9B6}|backend-vault\\backend-vault.csproj|solutionrelative:backend-vault\\backend-vault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20260408010242_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Migrations\\20260408010242_InitialCreate.cs",
               "RelativeDocumentMoniker": "backend-vault\\Migrations\\20260408010242_InitialCreate.cs",
@@ -51,20 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Program.cs",
-              "RelativeDocumentMoniker": "backend-vault\\Program.cs",
-              "ToolTip": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Program.cs",
-              "RelativeToolTip": "backend-vault\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvygAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:36:03.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "backend-vault\\Data\\DataContext.cs",
@@ -72,24 +59,48 @@
               "RelativeToolTip": "backend-vault\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:27:16.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T15:27:16.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "backend-vault.csproj",
               "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
               "RelativeDocumentMoniker": "backend-vault\\backend-vault.csproj",
               "ToolTip": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
               "RelativeToolTip": "backend-vault\\backend-vault.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T15:26:27.644Z"
+              "WhenOpened": "2026-04-07T15:26:27.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "backend-vault",
+              "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
+              "RelativeDocumentMoniker": "backend-vault\\backend-vault.csproj",
+              "ToolTip": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
+              "RelativeToolTip": "backend-vault\\backend-vault.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T15:35:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Program.cs",
+              "RelativeDocumentMoniker": "backend-vault\\Program.cs",
+              "ToolTip": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Program.cs",
+              "RelativeToolTip": "backend-vault\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvygAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:36:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Transacciones.cs",
               "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\Models\\Transacciones.cs",
               "RelativeDocumentMoniker": "backend-vault\\Models\\Transacciones.cs",
@@ -97,19 +108,7 @@
               "RelativeToolTip": "backend-vault\\Models\\Transacciones.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:11:47.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "backend-vault",
-              "DocumentMoniker": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
-              "RelativeDocumentMoniker": "backend-vault\\backend-vault.csproj",
-              "ToolTip": "C:\\Users\\ozsad\\source\\repos\\backend-vault\\backend-vault\\backend-vault.csproj",
-              "RelativeToolTip": "backend-vault\\backend-vault.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T15:35:51.629Z"
+              "WhenOpened": "2026-04-07T15:11:47.571Z"
             }
           ]
         }

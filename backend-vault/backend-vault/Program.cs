@@ -21,7 +21,17 @@ builder.Services.AddCors(options => {
 });
 
 // --- 2. CONSTRUCCIÓN DE LA APP (Solo una vez) ---
+// Justo antes de builder.Build()
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowNextjs",
+        policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+});
+
 var app = builder.Build();
+
+// Justo antes de app.Run()
+app.UseCors("AllowNextjs");
 
 // --- 3. SECCIÓN DE MIDDLEWARE (Configuración de cómo se comporta la app) ---
 
